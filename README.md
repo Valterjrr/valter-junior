@@ -1,13 +1,13 @@
-# valter junior
+# Valter Junior
 
 ## Descrição:
 
-### Quem sou eu ? 💭
+### Quem sou eu?
 
-* Olá! Me chamo valter! 🫡
-* Tenho 22 anos 🎈
-* Moro em RECIFE 🗺️
-* 👨🏻‍💻| Sou estudante de Ciência da computação na UFPE.\
+* Olá, me chamo Valter!
+* 🎈| Tenho 22 anos
+* 🗺️| Moro em Recife
+* 👨🏻‍💻| Sou estudante de Ciência da computação na UFPE
 * 🎞️| Gosto de assistir séries/filmes 
 * 🏋🏻‍♂| Gosto de praticar atividade física
 
