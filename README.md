@@ -5,7 +5,7 @@
 ### Quem sou eu?
 
 * Olá, me chamo Valter!
-* 🎈| Tenho 22 anos
+* 🎈| Tenho 23 anos
 * 🗺️| Moro em Recife
 * 👨🏻‍💻| Sou estudante de Ciência da computação na UFPE
 * 🎞️| Gosto de assistir séries/filmes 
